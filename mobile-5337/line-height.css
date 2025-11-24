@@ -1,0 +1,42 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-mobile-5337 {
+  --line-height-label-compact-line-height-4-x-large: 40px;
+  --line-height-label-compact-line-height-3-x-large: 32px;
+  --line-height-label-compact-line-height-2-x-large: 28px;
+  --line-height-label-compact-line-height-x-large: 24px;
+  --line-height-label-compact-line-height-large: 24px;
+  --line-height-label-compact-line-height-medium: 20px;
+  --line-height-label-compact-line-height-small: 16px;
+  --line-height-body-compact-line-height-x-large: 24px;
+  --line-height-body-compact-line-height-large: 20px;
+  --line-height-body-compact-line-height-medium: 20px;
+  --line-height-body-compact-line-height-base: 20px;
+  --line-height-body-compact-line-height-small: 16px;
+  --line-height-body-compact-line-height-x-small: 16px;
+  --line-height-body-fixed-line-height-x-large: 32px;
+  --line-height-body-fixed-line-height-large: 24px;
+  --line-height-body-fixed-line-height-medium: 24px;
+  --line-height-body-fixed-line-height-base: 20px;
+  --line-height-body-fixed-line-height-small: 20px;
+  --line-height-body-fixed-line-height-x-small: 16px;
+  --line-height-heading-line-height-1: 56px;
+  --line-height-heading-line-height-2: 48px;
+  --line-height-heading-line-height-3: 40px;
+  --line-height-heading-line-height-4: 32px;
+  --line-height-heading-line-height-5: 24px;
+  --line-height-heading-line-height-6: 20px;
+  --line-height-heading-line-height-7: 20px;
+  --line-height-label-fixed-line-height-4-x-large: 48px;
+  --line-height-label-fixed-line-height-3-x-large: 40px;
+  --line-height-label-fixed-line-height-2-x-large: 32px;
+  --line-height-label-fixed-line-height-x-large: 28px;
+  --line-height-label-fixed-line-height-large: 24px;
+  --line-height-label-fixed-line-height-medium: 24px;
+  --line-height-label-fixed-line-height-small: 20px;
+  --line-height-label-fixed-line-height-x-small: 16px;
+  --line-height-label-fixed-line-height-2-x-small: 14px;
+}
