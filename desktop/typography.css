@@ -1,0 +1,41 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-desktop {
+  --heading-h1: 600 56px/64px "Geist";
+  --heading-h2: 600 48px/56px "Geist";
+  --heading-h3: 600 40px/48px "Geist";
+  --heading-h4: 600 32px/40px "Geist";
+  --heading-h5: 600 24px/32px "Geist";
+  --heading-h6: 600 20px/24px "Geist";
+  --label-compact-4-x-large: 500 38px/48px "Geist";
+  --label-compact-3-x-large: 500 32px/40px "Geist";
+  --label-compact-2-x-large: 500 24px/32px "Geist";
+  --label-compact-x-large: 500 20px/28px "Geist";
+  --label-compact-large: 500 18px/24px "Geist";
+  --label-compact-medium: 500 16px/24px "Geist";
+  --label-compact-small: 500 14px/20px "Geist";
+  --body-compact-x-large: 400 24px/32px "Geist";
+  --body-compact-large: 400 18px/24px "Geist";
+  --body-compact-medium: 400 16px/24px "Geist";
+  --body-compact-base: 400 15px/20px "Geist";
+  --body-compact-small: 400 14px/20px "Geist";
+  --body-compact-x-small: 400 12px/16px "Geist";
+  --label-fixed-4-x-large: 500 38px/48px "Geist";
+  --label-fixed-3-x-large: 500 32px/40px "Geist";
+  --label-fixed-2-x-large: 500 24px/32px "Geist";
+  --label-fixed-x-large: 500 20px/28px "Geist";
+  --label-fixed-large: 500 18px/24px "Geist";
+  --label-fixed-medium: 500 16px/24px "Geist";
+  --label-fixed-small: 500 14px/20px "Geist";
+  --label-fixed-x-small: 500 12px/16px "Geist";
+  --label-fixed-2-x-small: 500 10px/13px "Geist";
+  --body-fixed-x-large: 400 24px/32px "Geist";
+  --body-fixed-large: 400 18px/24px "Geist";
+  --body-fixed-medium: 400 16px/24px "Geist";
+  --body-fixed-base: 400 15px/20px "Geist";
+  --body-fixed-small: 400 14px/20px "Geist";
+  --body-fixed-x-small: 400 12px/16px "Geist";
+}
