@@ -1,31 +1,31 @@
-/* Theme: Mobile 5337 */
-@import "./mobile-5337/font-size.css";
-@import "./mobile-5337/line-height.css";
-@import "./mobile-5337/font-weight.css";
-@import "./mobile-5337/font-family.css";
-@import "./mobile-5337/space.css";
-@import "./mobile-5337/border-radius.css";
-@import "./mobile-5337/border-width.css";
-@import "./mobile-5337/size.css";
-@import "./mobile-5337/letter-spacing.css";
-@import "./mobile-5337/typography.css";
+/* Theme: Mobile */
+@import "./mobile/font-size.css";
+@import "./mobile/line-height.css";
+@import "./mobile/font-weight.css";
+@import "./mobile/font-family.css";
+@import "./mobile/space.css";
+@import "./mobile/border-radius.css";
+@import "./mobile/dimension.css";
+@import "./mobile/size.css";
+@import "./mobile/letter-spacing.css";
+@import "./mobile/typography.css";
 
-/* Theme: Desktop 584e */
-@import "./desktop-584e/font-size.css";
-@import "./desktop-584e/line-height.css";
-@import "./desktop-584e/font-weight.css";
-@import "./desktop-584e/font-family.css";
-@import "./desktop-584e/space.css";
-@import "./desktop-584e/border-radius.css";
-@import "./desktop-584e/border-width.css";
-@import "./desktop-584e/size.css";
-@import "./desktop-584e/letter-spacing.css";
-@import "./desktop-584e/typography.css";
+/* Theme: Desktop */
+@import "./desktop/font-size.css";
+@import "./desktop/line-height.css";
+@import "./desktop/font-weight.css";
+@import "./desktop/font-family.css";
+@import "./desktop/space.css";
+@import "./desktop/border-radius.css";
+@import "./desktop/dimension.css";
+@import "./desktop/size.css";
+@import "./desktop/letter-spacing.css";
+@import "./desktop/typography.css";
 
-/* Theme: Light 8132 */
-@import "./light-8132/color.css";
-@import "./light-8132/shadow.css";
+/* Theme: Light */
+@import "./light/color.css";
+@import "./light/shadow.css";
 
-/* Theme: Dark D784 */
-@import "./dark-d784/color.css";
-@import "./dark-d784/shadow.css";
+/* Theme: Dark */
+@import "./dark/color.css";
+@import "./dark/shadow.css";
